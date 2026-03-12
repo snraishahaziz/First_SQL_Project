@@ -1,4 +1,4 @@
-# First_SQL_Project
+# Hospital_Management_Data_Analysis
 Analysing a hospital management's database to explore number of staff allocated, average
 patient admission, feature relationship and more using MySQL.
 
